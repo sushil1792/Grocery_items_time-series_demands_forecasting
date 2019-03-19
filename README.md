@@ -13,7 +13,7 @@ The data used in this research is from the Kaggle competition which aims to fore
 
 
 
-<img src="https://github.com/sushil1792/Grocery_items_time-series_demands_forecasting/blob/master/Dataset%20Information.png"/>
+<img src="https://github.com/sushil1792/Grocery_items_time-series_demands_forecasting/blob/master/Dataset%20Information2.png"/>
 ## Figure 1: Dataset Information
 
 ## **METHODOLOGY**
